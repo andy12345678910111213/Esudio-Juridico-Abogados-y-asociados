@@ -1,0 +1,14 @@
+<html>
+<head>
+<body>
+/head><body background="Telefono oficina.jpg" bgproperties="fixed">
+Nuestros contactos para poder agendar citas, consultas o empleos son:
+<ul>
+<li>Número Convencional: 022548-374</li>
+<li>Número Telefónico: 0998212839
+<li>Email:  rhabogadosespecializados@hotmail.com</li>
+<li>Correo: heredianus@hotmail.com-drohep@gmail.com</li>
+</ul>
+</body>
+</head>
+</html>

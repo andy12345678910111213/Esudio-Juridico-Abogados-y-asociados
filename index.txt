@@ -1,0 +1,119 @@
+﻿<html>
+	<head>
+		<title>Página web ESTUDIO JURÍDICO RH ABOGADOS Y ASOCIADOS</title>
+		<style type="text/css">
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="index.htm">Inicio</a></li>
+				</li>
+				<li><a href="Quiénes somos.htm">¿Quiénes somos?</a></li>
+				<li><a href="contacto.htm">Contacto</a></li>
+				<li><a href="abogados.htm">Abogados</a></li>
+				<li><a href="dirección.htm">Dirección</a></li>
+			</ul>
+		</div>
+	  
+
+
+</head>
+<a href="#abajo">Abajo</a>
+<a name="arriba"></a>
+	
+<body background="Abogados Foto.jpg" bgproperties="fixed">
+<br>
+
+<br>
+<br>
+<br>
+	<font face="Calibri" size="5" color="#ff8800">
+	<h1><center>Estudio jurídico RH ABOGADOS ASOCIADOS</center></h1>
+	<font face="Calibri" size="5" color="#ffff00">
+	El ESTUDIO JURÍDICO está operando hace más de 20 años, ubicado en la Av. Amazonas N20-51 (239) y Jorge Washington. Edif Alvarez Burbano, 5to piso, Ofc. 502-A, Nuestro estudio jurídico brinda servicios de asesoría legal como: <b><li>Constitucional</li> <li>Administrativo</li> <li>Civil</li> <li>Penal</li> <li>Laboral</li> <li>Inquilinato</li> <li>Tránsito</li> <li>Societario</li> <li>Tributario</li> <li>Familia</li> <li>Migración y Extranjería,</li> <li>Notarias</li> <li>Mediación y Arbitraje</li> <li>Etc</li></b>
+	<li>¿Quiénes Somos?</li>
+	En nuestro estudio especializamos en el tratamiento de temas de Derecho Público, con integrantes que dominan esas áreas, como lo demuestran su experiencia profesional, lo que nos hace referentes en el foro ecuatoriano.
+	Estamos capacitados para brindar un servicio del más alto nivel, en defensa de los derechos e intereses de nuestros clientes, con un sometimiento invariable a la ética profesional.
+	<html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,
+	initial-scale=1.0">
+	<title>DOCUMENT</title>
+</head>
+<body>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/m_1aZ6Kc8E4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+</body>
+</html>
+	<p><b><center>Andres Rodriguez</b></center>
+	<p><i><center>Unidad Educativa Frau Klier</i></center>
+	<p><center>Décimo B</p></center>
+	<p><center>Informatica</p></center>
+	<marquee bgcolor="#FFFFFF" widht="50%" scrolldelay=0>ESTUDIO JURÍDICO RH ABOGADOS Y ASOCIADOS</marquee>
+<a href="abogados.htm">
+<input type="button" value="Dale clic">
+<a href="mision.htm">
+<button>Dale clic</button>
+<button style="background-color:white;border-color:gold;color:black">Click aquí</button>
+</a>
+<button style="Background-color:sky-blue;border color:green;color:black">Dejanos tu comentario
+</body>
+</html>
+<a href="Formulario.htm"=Conectarse a index</a>
+
+</body>
+</html>  
